@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'BoonHome-Bold';
+    src: url('boonhome-700.woff2') format('woff2'),
+        url('boonhome-700.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BoonHome';
+    src: url('boonhome-400.woff2') format('woff2'),
+        url('boonhome-400.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: 'BoonHome';
+}
+
